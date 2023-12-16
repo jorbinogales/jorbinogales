@@ -37,17 +37,19 @@
 ---
 
 ### My stats 🔢 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorbinogales&hide=stars,issues&count_private=false&show_icons=true"/>
-</a>
-<br>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorbinogales&layout=compact" />
+
+<a href="https://github.com/jorbinogales">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorbinogales&theme=radical&hide=glsl,python&layout=compact" />
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=jorbinogales&&show_icons=true&theme=radical&line_height=27&v=5&layout=compact" alt="Ashwani's GitHub Stats"  />
 <br/>
 
 ---
 
 ### Last Articles 🖼️ 
+
+💻 [Pruebas de pubsub en local con python](https://jorbinogales.com/index.php/2023/12/16/conectar-python-con-pub-sub-en-local/)
+
+
+[<img src="https://jorbinogales.com/wp-content/uploads/2023/12/Sin-titulo-22.png" width="300">](https://jorbinogales.com/index.php/2023/12/16/conectar-python-con-pub-sub-en-local/)
