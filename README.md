@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" style="border-radius:30px" src="https://media.licdn.com/dms/image/D5603AQE_SUncDUtf9A/profile-displayphoto-shrink_800_800/0/1701224988460?e=1707955200&v=beta&t=W_jX-ZqTbDdpFN2k93kF_SCIIw6ECFNziEsLwZiofhU"/>
+<img src="https://media.licdn.com/dms/image/D5616AQH57dNf5_JbPg/profile-displaybackgroundimage-shrink_350_1400/0/1701225090852?e=1707955200&v=beta&t=rAcavGMCq2GBzk683NPFrsZoDQCgwodPKlioA4nh8G8"/>
 
 ### Hello World, my name is Jorbi Nogales 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jorbinogales)
@@ -35,6 +35,8 @@
 <br/>
 
 ---
+
+### Last Articles 🛠 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorbinogales&hide=stars,issues&count_private=false&show_icons=true"/>
 </a>
