@@ -47,7 +47,7 @@
 
 ---
 
-### Last Articles 🖼️ 
+### Last Articles 
 
 💻 [Pruebas de pubsub en local con python](https://jorbinogales.com/index.php/2023/12/16/conectar-python-con-pub-sub-en-local/)
 
