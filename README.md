@@ -52,4 +52,4 @@
 💻 [Pruebas de pubsub en local con python](https://jorbinogales.com/index.php/2023/12/16/conectar-python-con-pub-sub-en-local/)
 
 
-[<img src="https://jorbinogales.com/wp-content/uploads/2023/12/Sin-titulo-26-e1702742270700.png" width="300">](https://jorbinogales.com/index.php/2023/12/16/conectar-python-con-pub-sub-en-local/)
+[<img src="https://jorbinogales.com/wp-content/uploads/2023/12/Sin-titulo-26-e1702742270700.png" width="300">](https://jorbinogales.com/conectar-python-con-pub-sub-en-local/)
