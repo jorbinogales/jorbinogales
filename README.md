@@ -53,3 +53,9 @@
 
 
 [<img src="https://jorbinogales.com/wp-content/uploads/2023/12/Sin-titulo-26-e1702742270700.png" width="300">](https://jorbinogales.com/conectar-python-con-pub-sub-en-local/)
+
+
+💻 [Ejemplo de conexión con Bigquery GCP](https://jorbinogales.com/conectar-pythonc-con-bigquery-de-gcp/)
+
+
+[<img src="https://jorbinogales.com/wp-content/uploads/2024/01/Sin-titulo-33-e1705852174244.png" width="300">](https://jorbinogales.com/conectar-pythonc-con-bigquery-de-gcp/)
