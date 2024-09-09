@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jorbinogales/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jorbinogales@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jorbionogales&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jorbinogales&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>
