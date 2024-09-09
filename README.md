@@ -1,13 +1,11 @@
-<img src="https://media.licdn.com/dms/image/D5616AQH57dNf5_JbPg/profile-displaybackgroundimage-shrink_350_1400/0/1701225090852?e=1707955200&v=beta&t=rAcavGMCq2GBzk683NPFrsZoDQCgwodPKlioA4nh8G8"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jorbinogales)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### Hello World, my name is Jorbi Nogales 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jorbinogales)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorbi-nogales/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jorbinogales/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jorbinogales@gmail.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jorbionogales&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br/>
 
